@@ -16,7 +16,7 @@
 
 ### About Me 🚀
 
-🎓 I’m an Open-Source enthusiast & a senior pursuing my Bachelors in Electronics and Communication Engineering. </br>
+🎓 I’m an IoT Application Developer at a very fast growing start up: Bufo Innovations. </br>
 
 👨‍💻  I am passionate about Machine Learning and IoT.
 
