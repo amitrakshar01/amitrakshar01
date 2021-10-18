@@ -20,7 +20,7 @@
 
 👨‍💻  I am passionate about Machine Learning and IoT.
 
-![AksharSans's github stats](https://github-readme-stats.vercel.app/api?username=amitrakshar01&show_icons=true&hide_border=true)
+![AksharSans's github stats](https://github-readme-stats.vercel.app/api?username=amitrakshar01&show_icons=true&hide_border=true&theme=tokyonight)
 
 <br />
 
