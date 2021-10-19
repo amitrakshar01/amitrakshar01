@@ -71,3 +71,7 @@ Built an app using Flutter to control LED light of NodeMCU.
   
 ### Hobbies
 
+Cycling(Record of 54kms on single cycling ride 8hrs)<br>
+Professional Photographer<br>
+Writer with one publication(Native language: Bengali)<br>
+
