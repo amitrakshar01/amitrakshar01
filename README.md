@@ -68,7 +68,7 @@ Built an app using Flutter to control LED light of NodeMCU.
 
 ### Technical Skills
 
-●	Programming Technologies: Verilog, VHDL, SystemVerilog, Embedded C, Python<br>
+●	Programming Technologies: Verilog, VHDL, SystemVerilog, Embedded C, C++, Python, Java<br>
 ●	Verification Technologies: SystemVerilog, Universal Verification Methodology (UVM)<br>
 ●	IDEs: Vivado Design Suite, Xilinx ISE, Vivado EDK, Vivado SDK, Modelsim, Model based design, VSCode, Jupyter<b>
 ●	FPGA Families experience: Artix 7, Spartan 6, Zynq 7000, Spartan 3AN<br>
