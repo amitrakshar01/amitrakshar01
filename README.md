@@ -47,7 +47,7 @@
 <b>DETECTION OF KIDNEY STONES IN ULTRASOUND IMAGING USING MATLAB</b> (IEEE Conference Paper under review)
 
 
-<b>IoT BASED TEMPERATURE AND HUMIDITY MONITORING SYSTEM FOR HILL STATIONS</b>	(IEEE Conference Paper under review)
+<b>IoT BASED TEMPERATURE AND HUMIDITY MONITORING SYSTEM FOR HILL STATIONS</b>	(IEEE Conference Paper under review)<br>
 Built a Temperature and Humidity Monitoring System using NodeMCU. Wrote a Conference paper on IEEE
 where a model was built form the same and used specifically for tea estates and other plantations in the hill stations for accurate monitoring of essential parameters
 
@@ -70,7 +70,7 @@ Built an app using Flutter to control LED light of NodeMCU.
 
 ●	Programming Technologies: Verilog, VHDL, SystemVerilog, Embedded C, C++, Python, Java<br>
 ●	Verification Technologies: SystemVerilog, Universal Verification Methodology (UVM)<br>
-●	IDEs: Vivado Design Suite, Xilinx ISE, Vivado EDK, Vivado SDK, Modelsim, Model based design, VSCode, Jupyter<b>
+●	IDEs: Vivado Design Suite, Xilinx ISE, Vivado EDK, Vivado SDK, Modelsim, Model based design, VSCode, Jupyter<b><br>
 ●	FPGA Families experience: Artix 7, Spartan 6, Zynq 7000, Spartan 3AN<br>
 ●	Communication Interfaces: SPI, UART, IIC, Ethernet<br>
 ●	Debugging Tools: ILA, VIO, Chipscope, Software debugging with Vivado SDK<br>
