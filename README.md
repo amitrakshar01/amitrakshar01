@@ -8,7 +8,7 @@
 
 <a href="mailto:sanyalamitrakshar@gmail.com ">
 
-  <img align="left" width="26px" src="https://media.wired.com/photos/5adfb6b7c302e41716cebb18/1:1/w_1800,h_1800,c_limit/gmailupgrade.jpg" />
+  <img align="left" width="26px" src="https://github.com/amitrakshar01/amitrakshar01/blob/main/Assets/gmail_thumb_1615466143940.jpg" />
 
 </a>
 
