@@ -22,15 +22,15 @@
 
 ### Experience
 
-Bufo Innovations, Remote: October, 2021 – Present<br>
+<b>Bufo Innovations, Remote: October, 2021 – Present</b><br>
 [IoT Application Developer]<br>
 
-GirlScript Winter of Contributing, Remote: August, 2021 – Present<br>
+<b>GirlScript Winter of Contributing, Remote: August, 2021 – Present</b><br>
 [Machine Learning, Python, Open Source]					<br>			
 ●	Documenting one of the World’s biggest multilingual project.<br>
 ●	Contributing to Machine Learning projects.<br>
 
-University of Hyderabad, Remote: June, 2021 – September, 2021 <br>
+<b>University of Hyderabad, Remote: June, 2021 – September, 2021 </b><br>
 [C/C++, Tensorflow lite, Flutter]			<br>
 ●	Designed apps from scratch using Flutter to connect with smart IoT devices.<br>
 ●	Built Smart Lighting using NodeMCU from scratch.<br>
