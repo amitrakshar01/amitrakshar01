@@ -28,6 +28,9 @@
 
 ### Experience
 
+<b>Script Winter of Code'21, Remote: October, 2021 – Present</b><br>
+[Open Source Mentor]<br>
+
 <b>Bufo Innovations, Remote: October, 2021 – Present</b><br>
 [IoT Application Developer]<br>
 
