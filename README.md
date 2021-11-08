@@ -22,9 +22,7 @@
 
 ### About Me 🚀
 
-🎓 I’m an IoT Application Developer at a very fast growing start up: Bufo Innovations. </br>
-
-👨‍💻  I am passionate about Machine Learning and IoT.
+🎓 I am passionate about Software Development.
 
 ### Experience
 
@@ -71,12 +69,10 @@ Built an app using Flutter to control LED light of NodeMCU.
 
 ### Technical Skills
 
-●	Programming Technologies: Verilog, VHDL, SystemVerilog, Embedded C, C++, Python, Java<br>
-●	Verification Technologies: SystemVerilog, Universal Verification Methodology (UVM)<br>
-●	IDEs: Vivado Design Suite, Xilinx ISE, Vivado EDK, Vivado SDK, Modelsim, Model based design, VSCode, Jupyter<b><br>
-●	FPGA Families experience: Artix 7, Spartan 6, Zynq 7000, Spartan 3AN<br>
-●	Communication Interfaces: SPI, UART, IIC, Ethernet<br>
-●	Debugging Tools: ILA, VIO, Chipscope, Software debugging with Vivado SDK<br>
+●	Programming Technologies: C, C++, Java, Embedded C, Python<br>
+●	Database: MySQL, PostgreSQL, MongoDB<br>
+●	IDEs: VSCode, Codeblocks, Intellij, Jupyter, Spyder<br>
+
   
 ### Hobbies
 
