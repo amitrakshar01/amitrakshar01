@@ -29,9 +29,6 @@
 <b>Script Winter of Code'21, Remote: October, 2021 – Present</b><br>
 [Open Source Mentor]<br>
 
-<b>Bufo Innovations, Remote: October, 2021 – Present</b><br>
-[IoT Application Developer]<br>
-
 <b>GirlScript Winter of Contributing, Remote: August, 2021 – Present</b><br>
 [Machine Learning, Python, Open Source]					<br>			
 ●	Documenting one of the World’s biggest multilingual project.<br>
@@ -76,7 +73,7 @@ Built an app using Flutter to control LED light of NodeMCU.
   
 ### Hobbies
 
-Cycling(Record of 54kms on single cycling ride 8hrs)<br>
+Cycling(Record of 54kms on single cycling ride 4hrs)<br>
 Professional Photographer<br>
 Writer with one publication(Native language: Bengali)<br>
 
