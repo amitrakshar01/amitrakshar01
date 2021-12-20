@@ -60,7 +60,7 @@ where a model was built form the same and used specifically for tea estates and 
 
 
 <b>IoT LIGHT</b>	                                   
-Built an app using Flutter to control LED light of NodeMCU.
+Built an app using Flutter to control LED light of NodeMCU.<br>
   
 <b>Portfolio Optimization</b>
 Using classical algorithms, specifically Efficient Frontier Method to find out an overall optimized portfolio.<br>
