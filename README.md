@@ -45,6 +45,12 @@
 
 ### Projects
 
+<b>Euphoria- Stream music anywhere</b><br>
+A static but fully responsive music web app made entirely with pure HTML, CSS, and JavaScript. The web app is
+made entirely with pure logic and no frameworks used.<br>
+  <a href="https://github.com/amitrakshar01/Euphoria">GitHub repository link</a><br>
+  <a href="https://euphoriamusic.netlify.app">Netlify app</a><br>
+
 <b>DETECTION OF KIDNEY STONES IN ULTRASOUND IMAGING USING MATLAB</b> (IEEE Conference Paper under review)
 
 
@@ -55,6 +61,11 @@ where a model was built form the same and used specifically for tea estates and 
 
 <b>IoT LIGHT</b>	                                   
 Built an app using Flutter to control LED light of NodeMCU.
+  
+<b>Portfolio Optimization</b>
+Using classical algorithms, specifically Efficient Frontier Method to find out an overall optimized portfolio.<br>
+<a href="https://github.com/amitrakshar01/Portfolio-Optimization">GitHub Repository Link</a>
+
 
 
 ![Amitrakshar's github stats](https://github-readme-stats.vercel.app/api?username=amitrakshar01&show_icons=true&hide_border=true&theme=tokyonight)
@@ -69,7 +80,9 @@ Built an app using Flutter to control LED light of NodeMCU.
 
 ### Technical Skills
 
-●	Programming Technologies: C, C++, Java, Embedded C, Python<br>
+●	Programming Languages: C, C++, Java, Embedded C, Python, JavaScript, HTML, CSS<br>
+● Front-end: ReactJs, AngularJs<br>
+● Back-end: Nodejs, Expressjs<br>
 ●	Database: MySQL, PostgreSQL, MongoDB<br>
 ●	IDEs: VSCode, Codeblocks, Intellij, Jupyter, Spyder<br>
 
