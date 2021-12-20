@@ -62,7 +62,7 @@ where a model was built form the same and used specifically for tea estates and 
 <b>IoT LIGHT</b>	                                   
 Built an app using Flutter to control LED light of NodeMCU.<br>
   
-<b>Portfolio Optimization</b>
+<b>Portfolio Optimization</b><br>
 Using classical algorithms, specifically Efficient Frontier Method to find out an overall optimized portfolio.<br>
 <a href="https://github.com/amitrakshar01/Portfolio-Optimization">GitHub Repository Link</a>
 
@@ -92,4 +92,10 @@ Using classical algorithms, specifically Efficient Frontier Method to find out a
 Cycling(Record of 54kms on single cycling ride 4hrs)<br>
 Professional Photographer<br>
 Writer with one publication(Native language: Bengali)<br>
+
+<br>
+<h2 align="left">📈 GitHub Activity :
+<br></h2>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=amitrakshar01&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
