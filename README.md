@@ -18,5 +18,5 @@
 <h2 align="left">📈 GitHub Activity :
 <br></h2>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=amitrakshar01&bg_color=000000&line=d0ff12&area=true&color=d0ff12&hide_border=true&hide_title=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=amitrakshar01&bg_color=000000&line=d0ff12&area=true&color=d0ff12&hide_border=true&hide_title=true&theme=merko">
 
