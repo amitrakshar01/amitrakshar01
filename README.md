@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Amitrakshar.
 
-<a href = "https://amitrakshar-portfolio.herokuapp.com">Visit my Portfolio Website</a>
+<a href = "https://amitrakshar01.github.io/">Visit my Portfolio Website</a>
 
 
 ![Amitrakshar's github stats](https://github-readme-stats.vercel.app/api?username=amitrakshar01&show_icons=true&hide_border=true&theme=merko)
