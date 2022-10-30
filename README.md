@@ -104,4 +104,11 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <br></h2>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=amitrakshar01&bg_color=000000&line=d0ff12&area=true&color=d0ff12&hide_border=true&hide_title=true&theme=merko">
+</br>
+</br>
 
+### Btw wanna have some popcorn while you look into my repos? 🍿
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/15682.gif">
+</div>
