@@ -38,14 +38,10 @@
 <img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
 <img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
 <img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/aws.png" alt="aws" width="100" hight="50">
-<img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="150" hight="50">
-</br>
-<img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/r.png" alt="R" width="100" hight="50">
-</br>
+<img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="150" hight="60">
+<img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/r.png" alt="R" width="100" hight="45">
 <img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
-</br>
 <img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/linux.png" alt="linux" width="100" hight="50">
 </p>
 </br>
