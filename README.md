@@ -2,6 +2,14 @@
 
 <a href = "https://amitrakshar01.github.io/">Visit my Portfolio Website</a>
 
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/208593.gif">
+</div>
+
+</br>
+</br>
+</br>
+
 
 ![Amitrakshar's github stats](https://github-readme-stats.vercel.app/api?username=amitrakshar01&show_icons=true&hide_border=true&theme=merko)
 
