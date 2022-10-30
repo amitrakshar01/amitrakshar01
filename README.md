@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Amitrakshar.
+# Konichiwa 👋
 
 <a href = "https://amitrakshar01.github.io/">Visit my Portfolio Website</a>
 
