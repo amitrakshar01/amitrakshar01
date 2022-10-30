@@ -12,9 +12,9 @@
 
 # About ME 💬 :
 
-### - I'm a 21 years  old Machine Learning & Data Science Enthusiast from India. Currently working as a Software Engineer(Intern) @StackGuardian.
+### - I'm a 21 years old Machine Learning & Data Science Enthusiast from India. Currently working as a Software Engineer(Intern)@StackGuardian.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/1936.gif">
+<img hight="400" width="350" alt="GIF" align="right" src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/1936.gif">
 
 ### - Skills :
 - ✨ Machine Learning and Data Analysis
