@@ -46,7 +46,6 @@
 </p>
 </br>
 </br>
-</br>
 
 # Contact Me :
 
@@ -62,6 +61,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="mailto:sanyalamitrakshar@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/gmail.png" />
 </a>
+</br>
 <a href="https://www.linkedin.com/in/amitrakshar-sanyal-a59376191/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/linkedin.png" />
 </br>
