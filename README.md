@@ -39,8 +39,8 @@
 <img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
 <img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
 <img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/aws.png" alt="aws" width="100" hight="50">
-<img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="150" height="80">
-<img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/r.png" alt="R" width="100" hight="40">
+<img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="150" height="60">
+<img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/r.png" alt="R" width="100" height="40">
 <img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
 <img src="https://github.com/amitrakshar01/amitrakshar01/blob/main/assets/icons/linux.png" alt="linux" width="100" hight="50">
 </p>
