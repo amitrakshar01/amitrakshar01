@@ -67,7 +67,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </p>
 
-![Amitrakshar's github stats](https://raw.githubusercontent.com/amitrakshar01/my-github-stats/master/generated/overview.svg)
+![Amitrakshar's github stats](https://github-readme-stats.vercel.app/api?username=amitrakshar01&show_icons=true&hide_border=true&theme=merko)
 
 <br />
 
